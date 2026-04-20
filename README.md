@@ -1,4 +1,4 @@
-## Hi there 👋
+## HOLA WACHIN 👋
 
 <!--
 **jere-elmago7/jere-elmago7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
