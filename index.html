@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Study AI</title>
+</head>
+<body>
+
+<h1>📚 Study AI</h1>
+
+<select id="subject">
+  <option>Química</option>
+  <option>Historia</option>
+  <option>Inglés</option>
+</select>
+
+<h2>📂 Subir archivo</h2>
+<input type="file" id="fileInput">
+
+<h2>🤖 Preguntar a la IA</h2>
+<input type="text" id="question" placeholder="Escribí tu pregunta">
+<button onclick="askAI()">Preguntar</button>
+
+<p id="response"></p>
+
+<h2>❓ Quiz</h2>
+<button onclick="generateQuiz()">Generar Quiz</button>
+<div id="quiz"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
